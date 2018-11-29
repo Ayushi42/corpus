@@ -1,0 +1,4 @@
+	replaced	" हैं-"	by:	" हैं—"	261 occurences
+	replaced " है-"	by:	" है—"	670 occurences
+	replaced " कि-" by:	" कि—"	111 occurences
+
